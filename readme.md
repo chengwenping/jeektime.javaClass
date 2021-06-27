@@ -1,1 +1,1 @@
-homework.md
+该仓库用于提交java训练营相关的作业
